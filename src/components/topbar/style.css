@@ -1,0 +1,9 @@
+div.topbar{
+    box-sizing: border-box; 
+    height: 60px;
+    background-color: #0c033f;
+    color: rgb(243, 243, 243);
+    align-items: center;
+    padding-left: 20px;
+    display: flex;
+}
