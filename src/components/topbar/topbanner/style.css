@@ -1,0 +1,20 @@
+div.topbanner {
+    height: 200px;
+    background-color: #efefef;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+center.topbanner {
+    color: #0c033f;
+    font-size: 50px;
+    font-weight: bold;
+    position: absolute;
+    top: 110px;
+    font-family:  " furacão", cursive;
+    -webkit-text-stroke: 2px #faf9fc;
+    text-shadow: 2px 2px 4px #1a1818;
+
+    
+}
