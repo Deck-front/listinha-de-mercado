@@ -1,0 +1,21 @@
+div.footer{
+    height: 80px;
+    background-color:rgb(59, 61, 61);
+    border-radius: 0px 0px 20px 20px;
+    position: relative;
+    
+   
+
+    
+    
+}
+
+div.footer p{
+    color: #ffffff;
+    text-align: center;
+    padding: 30px;
+    align-items: center;
+    text-shadow: 2px 2px 4px #080808;
+    font-size: 14px;
+    
+}

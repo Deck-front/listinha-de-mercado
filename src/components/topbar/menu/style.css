@@ -1,0 +1,24 @@
+div.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.menu1 a {
+margin: 10px;
+text-decoration: none;
+color: #0c033f;
+font-size: 26px;
+padding: 10px;
+background-color: #ffffff;
+font-weight: bold;
+
+}
+
+.menu1 a:hover {
+   background-color: #0c033f;
+   color: #ffffff;
+   border-radius: 10px;
+   
+}
+
